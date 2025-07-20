@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker (Vercel Deployment)
+# 🔐 Password Strength Checker
 
 A Flask web app that checks the strength of a password using entropy and basic rules.
 
@@ -7,8 +7,4 @@ A Flask web app that checks the strength of a password using entropy and basic r
 - Calculates entropy in bits
 - Shows password security criteria
 
-## Vercel Setup
 
-### 1. Install Vercel CLI
-```bash
-npm install -g vercel
